@@ -18,7 +18,7 @@ title: Commands
     - **Aliases:** `summon`
 ---
 - **`!play`** - Plays a song with the given name or url. [**More Info**](/play_song)
-    - **Usage:** `!play <link/query>`
+    - **Usage:** `-p`
     - **Alias:** `p`
 ---
 - **`!playtop`** - Adds a song with the given name/url __on the top of the queue__.
